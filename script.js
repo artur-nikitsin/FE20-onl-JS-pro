@@ -1,2 +1,2 @@
 const USER_NAME = 'Evgenii'
-const SURNAME = 'Balykin'
+const MIDDLE_NAME = 'Konstantinovich'
