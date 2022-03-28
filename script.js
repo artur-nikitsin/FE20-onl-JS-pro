@@ -1,1 +1,1 @@
-console.log("initial commit", "add feature", "add one more feature")
+console.log("initial commit", "add feature")
